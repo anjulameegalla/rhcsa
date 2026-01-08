@@ -34,9 +34,6 @@ man <command>
 man <file_name>
 man <service_name>
 
-# access help menu
-<commands> --help
-
 # summarized description
 whatis <command>
 
@@ -46,31 +43,6 @@ whereis <comamnd>
 # manual of man command
 man man
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
